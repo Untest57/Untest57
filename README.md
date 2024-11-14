@@ -1,10 +1,8 @@
 ## Frontend Developer
-
 Happy development! Always!
 
 
 ## Tech Stack
-
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -17,7 +15,6 @@ Happy development! Always!
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 </div>
 
-
 ### Sub
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -25,3 +22,10 @@ Happy development! Always!
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity3D-%23000000.svg?&style=flat-square&logo=unity&logoColor=white" />
 </div>
+
+
+## Stat
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untest57&theme=github_dark&layout=compact)
+
+
+![Untest57 GitHub stats](https://github-readme-stats.vercel.app/api?username=untest57&theme=github_dark&&hide=stars,contribs&show_icons=true&count_private=true)

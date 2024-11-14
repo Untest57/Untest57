@@ -22,10 +22,3 @@ Happy development! Always!
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity3D-%23000000.svg?&style=flat-square&logo=unity&logoColor=white" />
 </div>
-
-
-## Stat
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untest57&theme=github_dark&layout=compact)
-
-
-![Untest57 GitHub stats](https://github-readme-stats.vercel.app/api?username=untest57&theme=github_dark&&hide=stars,contribs&show_icons=true&count_private=true)

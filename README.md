@@ -23,5 +23,5 @@ Happy development! Always!
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity3D-%23000000.svg?&style=flat-square&logo=unity&logoColor=white" />
 </div>

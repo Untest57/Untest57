@@ -26,5 +26,7 @@ Happy development! Always!
 
 ----------------------------
 
+![Untest57 GitHub stats](https://github-readme-stats.vercel.app/api?username=untest57&show_icons=true&theme=holi&show_icons=true&include_all_commits=true&hide=stars,contribs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Untest57&show_icons=true&theme=holi&show_icons=true&count_private=true&hide=commits,prs,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untest57&&theme=holi)](https://github.com/anuraghazra/github-readme-stats)

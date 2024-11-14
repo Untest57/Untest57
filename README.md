@@ -24,9 +24,12 @@ Happy development! Always!
 </div>
 
 
-----------------------------
-
-![Untest57 GitHub stats](https://github-readme-stats.vercel.app/api?username=untest57&show_icons=true&theme=holi&show_icons=true&include_all_commits=true&hide=stars,contribs)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untest57&&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+<div>
+  <a href="https://github.com/untest57">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untest57&theme=holi&layout=compact" />
+  </a>
+  <a href="https://github.com/untest57">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=untest57&show_icons=true&theme=holi&show_icons=true&include_all_commits=true&hide=stars,contribs" />
+  </a>
+</div>

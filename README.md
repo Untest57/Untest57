@@ -22,3 +22,9 @@ Happy development! Always!
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity3D-%23000000.svg?&style=flat-square&logo=unity&logoColor=white" />
 </div>
+
+
+----------------------------
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=holi&show_icons=true&count_private=true&hide=commits,prs,issues)
